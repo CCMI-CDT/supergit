@@ -3,9 +3,11 @@ marp: true
 theme: default
 ---
 
+TODO: update URL and QR code
+
 ![bg right fit](assets/qr-code-slides.svg)
 
-# [scnlf.me/2025-12-01-supergit](https://scnlf.me/2025-12-01-supergit)
+# [ccmi-cdt.github.io/supergit](https://ccmi-cdt.github.io/supergit)
 
 ---
 
@@ -21,7 +23,7 @@ theme: default
 
 [@samcunliffe] and [@mscroggs]
 
-CDT CCMI Software Engineering Fundamentals, 90 High Holborn. 2025-12-01. ![h:31](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+CDT CCMI Software Engineering Fundamentals, 90 High Holborn. 2026-11-30. ![h:31](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 [@mscroggs]: https://github.com/mscroggs
 [@samcunliffe]: https://github.com/samcunlffe
@@ -30,7 +32,7 @@ CDT CCMI Software Engineering Fundamentals, 90 High Holborn. 2025-12-01. ![h:31]
 
 <!--
 paginate: true
-footer: `git` superpowers (and licensing). 2025-12-01.
+footer: `git` superpowers (and licensing). 2026-11-30.
 -->
 
 # Our plan for today
@@ -281,13 +283,13 @@ _footer: Image: Neil Shephard. CC BY 4.0.
 
 # Exercise: creating a branch and a merge conflict
 
-## [Exercise instructions](https://github.com/samcunliffe/2025-12-01-supergit/blob/main/exercises.md#exercise-1-branches-and-merge-conflicts)
+## [Exercise instructions](https://github.com/ccmi-cdt/supergit/blob/main/exercises.md#exercise-1-branches-and-merge-conflicts)
 
 ---
 
 # Exercise (time permitting): rebasing
 
-## [Exercise instructions](https://github.com/samcunliffe/2025-12-01-supergit/blob/main/exercises.md#exercise-2-rebasing)
+## [Exercise instructions](https://github.com/ccmi-cdt/supergit/blob/main/exercises.md#exercise-2-rebasing)
 
 ---
 
