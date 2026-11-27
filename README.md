@@ -24,7 +24,7 @@ The UCL and CCMI-CDT logos are trademarks and have different [reuse guidelines](
 But we assume you will rebrand for your own organisation and purposes.
 
 [@mscroggs]: https://github.com/mscroggs
-[@samcunliffe]: https://github.com/samcunlffe
+[@samcunliffe]: https://github.com/samcunliffe
 [@milanmlft]: https://github.com/milanmlft
 [Pro Git]: https://git-scm.com/book/en/v2
 [CodeRefinery]: https://coderefinery.org/blog/git-material/

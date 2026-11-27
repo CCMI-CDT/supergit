@@ -25,9 +25,9 @@ TODO: update URL and QR code
 
 CDT CCMI Software Engineering Fundamentals, 90 High Holborn. 2026-11-30. ![h:31](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
+[@samcunliffe]: https://github.com/samcunliffe
 [@mscroggs]: https://github.com/mscroggs
 [@milanmlft]: https://github.com/milanmlft
-[@samcunliffe]: https://github.com/samcunlffe
 
 ---
 
