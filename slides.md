@@ -21,12 +21,13 @@ TODO: update URL and QR code
 
 ## (+ licensing your software)
 
-[@samcunliffe] and [@mscroggs]
+[@samcunliffe], [@mscroggs] and [@milanmlft]
 
 CDT CCMI Software Engineering Fundamentals, 90 High Holborn. 2026-11-30. ![h:31](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
+[@samcunliffe]: https://github.com/samcunliffe
 [@mscroggs]: https://github.com/mscroggs
-[@samcunliffe]: https://github.com/samcunlffe
+[@milanmlft]: https://github.com/milanmlft
 
 ---
 
@@ -42,8 +43,8 @@ footer: `git` superpowers (and licensing). 2026-11-30.
 2. Branching, merging, rebasing.
    - Using a UI to look at branches.
 3. Revert, soft reset, hard reset, force push.
-4. Collaboration, pull requests, bug reports, ettiquette.
-   - Co authoring commits, credit.
+4. Collaboration, pull requests, bug reports, etiquette.
+   - Co-authoring commits, credit.
 5. Choosing a license.
 
 ---
@@ -120,13 +121,13 @@ _footer: Image: [Pro Git](https://git-scm.com/book/en/v2) / Ben Straub and Scott
 # Good commit messages
 
 ```
-Short descriptive and less than 50 characters
+Short, descriptive and less than 50 characters
 ```
 
 <br />
 
 ```
-Short descriptive and less than 50 characters
+Short, descriptive and less than 50 characters
 
 A longer message that explains WHY the change was made in detail. Also
 wrapped at 72 characters. Many editors will do this for you but if not,
@@ -372,7 +373,7 @@ The grand important internet battle:
 * ⚠️
 
   ```sh
-  git reset --mixed HEAD~1
+  git reset --soft HEAD~1
   git commit --amend -m "A better commit message" 
   git push --force-with-lease
   ```
@@ -510,7 +511,7 @@ Rank each of these bug reports...
   - Or chat with collaborators and agree on some (can change them later).
 - Open draft pull requests early.
   - If in doubt, get feedback and ask for help.
-- When you're pull request is ready:
+- When your pull request is ready:
   - Make sure the descriptions are clear and you've linked any issues.
   - Make sure tests and linters pass.
   - **Review it yourself**.
@@ -633,7 +634,7 @@ Co-authored-by: Matthew Scroggs <mscroggs@users.no-reply.github.com>"
   git commit -m "Do supervisor request"
   git push
   git switch what-i-was-doing-before
-  git reseet --soft HEAD~1 # get back to messy changes
+  git reset --soft HEAD~1 # get back to messy changes
   # ...
   ```
 
