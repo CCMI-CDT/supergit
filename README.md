@@ -2,9 +2,9 @@
 
 (+ licensing your software)
 
-Slides and material for a lesson on Advanced Git, GitHub, and licensing given to the 2025 cohort in the UCL/Imperial [CCMI CDT](https://ccmi-cdt.org/).
+Slides and material for a lesson on Advanced Git, GitHub, and licensing given to the 2026 cohort in the UCL/Imperial [CCMI CDT](https://ccmi-cdt.org/).
 
-[@mscroggs] and [@samcunliffe]
+by [@mscroggs], [@samcunliffe] and [@milanmlft]
 
 ## Prerequisites
 
@@ -25,6 +25,7 @@ But we assume you will rebrand for your own organisation and purposes.
 
 [@mscroggs]: https://github.com/mscroggs
 [@samcunliffe]: https://github.com/samcunlffe
+[@milanmlft]: https://github.com/milanmlft
 [Pro Git]: https://git-scm.com/book/en/v2
 [CodeRefinery]: https://coderefinery.org/blog/git-material/
 [Git Guides]: https://github.com/git-guides
